@@ -11,5 +11,10 @@ export default createTheme({
     primary: {
       main: `${arcBlack}`,
     }
+  },
+  typography: {
+    h3: {
+      fontWeight: 100
+    }
   }
 })
